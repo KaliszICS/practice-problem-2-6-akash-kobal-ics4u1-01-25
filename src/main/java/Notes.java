@@ -3,6 +3,7 @@ class Notes {
 	public static void main(String[] args) {
 
 
+
 		int[] numArray = {3, 8, 3, 4, 6, 9, 1, 2, 6, 55, 44, 33};
 
 		for (int i = 1; i < numArray.length; i++) {
